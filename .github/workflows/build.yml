@@ -16,7 +16,7 @@ jobs:
         run: 'chmod +x gradlew'
       # Build the addon
       - name: Download LabyMod-API
-        run: 'sh gradlew downloadAPI --no-daemon'
+        run: 'sh gradlew downloadAPI --no-daemon --stacktrace'
       # Build the addon
       - name: Build with Gradle
         run: 'sh gradlew build --no-daemon'
