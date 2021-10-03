@@ -3,6 +3,7 @@
   "uuid": "062e10a4-2446-11ec-9621-0242ac130002",
   "mainClass": "de.xconnortv.LabyTwitter",
   "author":"xConnorTV",
+  "description": "Shows Twitter follower count of any user you want to",
   "category": 2,
   "version": 1,
   "icon": "https://xconnor.tv/uploads/twitter.png"

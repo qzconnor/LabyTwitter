@@ -32,11 +32,6 @@ sourceCompatibility = targetCompatibility = compileJava.sourceCompatibility = co
 
 def mcpVersion = [channel: 'snapshot', version: '20201028-1.16.3']
 
-mixin {
-    defaultObfuscationEnv searge
-    add sourceSets.main, "example.refmap.json"
-}
-
 minecraft {
     mappings mcpVersion
 
