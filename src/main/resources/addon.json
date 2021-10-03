@@ -1,6 +1,6 @@
 {
   "name": "LabyTwitter 1.16.5",
-  "uuid": "062e10a4-2446-11ec-9621-0242ac130002",
+  "uuid": "%uuid%",
   "mainClass": "de.xconnortv.LabyTwitter",
   "author":"xConnorTV",
   "description": "Shows Twitter follower count of any user you want to",

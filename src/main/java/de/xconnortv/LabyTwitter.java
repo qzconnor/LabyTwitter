@@ -11,6 +11,7 @@ public class LabyTwitter extends LabyModAddon {
         TwitterModule module = new TwitterModule();
         this.api.getEventService().registerListener(module);
         this.api.registerModule(module);
+        System.out.println("[LabyTwitter] Loaded Addon!");
     }
 
     @Override
