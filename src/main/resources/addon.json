@@ -1,6 +1,9 @@
 {
-  "name": "Example Addon",
-  "uuid": "%uuid%",
-  "mainClass": "com.example.addon.ExampleAddon",
-  "transformerClass": "com.example.addon.ExampleAddonTransformer"
+  "name": "LabyTwitter 1.16.5",
+  "uuid": "062e10a4-2446-11ec-9621-0242ac130002",
+  "mainClass": "de.xconnortv.LabyTwitter",
+  "author":"xConnorTV",
+  "category": 2,
+  "version": 1,
+  "icon": "https://xconnor.tv/uploads/twitter.png"
 }

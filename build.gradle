@@ -25,8 +25,8 @@ apply plugin: 'maven-publish'
 apply plugin: 'org.spongepowered.mixin'
 
 version = '1.0.0'
-group = 'com.example' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = 'Example Addon'
+group = 'de.xconnortv' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
+archivesBaseName = 'LabyTwitter 1.16.5'
 
 sourceCompatibility = targetCompatibility = compileJava.sourceCompatibility = compileJava.targetCompatibility = '1.8' // Need this here so eclipse task generates correctly.
 
